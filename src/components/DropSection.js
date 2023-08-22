@@ -5,7 +5,7 @@ function DropSection() {
     const [showSection, setShowSection] = useState(false);
 
     useEffect(() => {
-        const move = mouse => (){
+        const  mouse => (){
         
             addEventListener( onmouseover)
         }
